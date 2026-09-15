@@ -1,6 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Terminal banner: a dithered avatar beside whoami output reading Anteneh Demissie, cybersecurity student and aspiring pentester" src="assets/banner-dark.svg" width="100%">
+</picture>
+
 ### Hey, I'm Anteneh Demissie
 
-[![Portfolio anteneh.tech](https://img.shields.io/badge/Portfolio-anteneh.tech-000?style=flat&logo=googlechrome&logoColor=white)](https://anteneh.tech) [![GitHub followers](https://img.shields.io/github/followers/KiwiC0der?style=flat&logo=github&label=Follow)](https://github.com/KiwiC0der)
+[![X @LilAnt3000](https://img.shields.io/badge/X-@LilAnt3000-000?style=flat&logo=x)](https://x.com/LilAnt3000) [![LinkedIn anteneh-demissie](https://img.shields.io/badge/LinkedIn-anteneh--demissie-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anteneh-demissie/) [![Portfolio anteneh.tech](https://img.shields.io/badge/Portfolio-anteneh.tech-000?style=flat&logo=googlechrome&logoColor=white)](https://anteneh.tech) [![GitHub followers](https://img.shields.io/github/followers/KiwiC0der?style=flat&logo=github&label=Follow)](https://github.com/KiwiC0der)
 
 Cybersecurity student and aspiring penetration tester. I like to tinker with things: immersive 3D web, browser tools that run entirely on your machine, and AI agents. Most of what I build ships live under [anteneh.tech](https://anteneh.tech).
 
